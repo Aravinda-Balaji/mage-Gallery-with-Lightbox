@@ -1,1 +1,1 @@
-# mage-Gallery-with-Lightbox
+# Image-Gallery-with-Lightbox
